@@ -44,5 +44,7 @@ Multi-/Hyperspectral Thermal Infrared Remote Sensing for Crop Water-Stress Detec
 spikes with context‑augmented local regression networks</a></li> 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Agriculture-DL-Papers/blob/master/a(20).pdf" style="text-decoration:none;">County-Level Soybean Yield Prediction Using Deep CNN-LSTM Model</a></li>
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Agriculture-DL-Papers/blob/master/a(21).pdf" style="text-decoration:none;">Deep Learning in Agriculture: A Survey</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Agriculture-DL-Papers/blob/master/a(22).pdf" style="text-decoration:none;">Deep Learning in Agricultural Remote Sensing Applications</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Agriculture-DL-Papers/blob/master/a(23).pdf" style="text-decoration:none;">From machine learning to deep learning in agriculture – the quantitative review of trends</a></li> 
 </ul>
